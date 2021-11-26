@@ -35,7 +35,8 @@
 .task-wrapper {
   display: flex;
 }
-ul {
+ul,
+figure {
   margin: 0;
   padding: 0px;
 }
