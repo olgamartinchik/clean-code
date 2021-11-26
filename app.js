@@ -44,6 +44,8 @@ var createNewTaskElement = function (taskString) {
 
   listItem.className = "list-item";
 
+  checkBox.className = "select-task";
+
   deleteButton.className = "button delete-btn";
   deleteButtonImg.src = "./remove.svg";
   deleteButtonImg.alt = "delete icon";
