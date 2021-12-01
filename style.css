@@ -133,7 +133,7 @@ button {
 }
 
 /* Completed */
-#completed-list .todo-wrapper__task-title {
+.completed__list .todo-wrapper__task-title {
   text-decoration: line-through;
   color: #888;
 }
