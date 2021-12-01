@@ -93,7 +93,10 @@ button {
   margin: 0 0 20px;
   width: 100%;
 }
-#new-task {
+/* #new-task {
+  width: 318px;
+} */
+.addition__task-wrapper .todo-wrapper__task-content {
   width: 318px;
 }
 
